@@ -8,7 +8,7 @@
 
 
 ## Overview
-This project performs instance segmentation of aircraft in images using OpenCV, YOLO v8 and TensorFlow. The goal is to detect and segment individual aircrafts within various images accurately.
+This project performs instance segmentation of aircraft in historical images using OpenCV, YOLO v8 and TensorFlow. The goal is to detect and segment individual aircrafts within various images accurately.
 
 ## Technologies Used
 - **OpenCV**: Image processing and manipulation.
