@@ -47,7 +47,7 @@ To set up the project on your local machine, follow these steps:
 
 ## Dataset
 
-The dataset used in this project is sourced from the Open Images Dataset V7, specifically focusing on images containing aircraft.
+The dataset used in this project is sourced from the [Open Images Dataset V7](https://storage.googleapis.com/openimages/web/index.html), specifically focusing on images containing aircraft.
 
 ## Results
 
