@@ -55,20 +55,24 @@ Sample results of the segmentation model on aircraft images are shown in the tab
 
 ## Potential Improvements
 
-1. **Enhanced Segmentation**:
+1. **Enhanced Segmentation by Decoupling Object Detection and Segmentation**:
 
-   - Use YOLO v8 only for object detection.
+   - Use YOLO v8 for object detection.
 
-   - Use Meta's Segment Anything Model (SAM) to segment the individual bounding boxes obtained through object detection
+   - Apply Meta's Segment Anything Model (SAM) to segment the individual bounding boxes obtained from YOLO v8.
 
-   - This approach would yield more accurate segmentation results but at the cost of increased computational complexity and slightly slower inference times.
+   - This approach can provide more accurate segmentation results, albeit with increased computational complexity and slightly slower inference times.
 
-2. **Building a frontend**:
-	- Build a web frontend that allowed you to upload a number of images.
+3. **Build a frontend**:
+   - Develop a web frontend that allows users to upload multiple images.
 
-	- Segmentation is performed automatically and results are displayed in user-friendly manner.
-	
-	- The aim is to make the algorithm accessible without having to write code and or run Jupyter Notebooks.
+   - Perform segmentation automatically and display the results in a user-friendly manner.
+
+   - Allow the frontend to accept user feedback and corrections on segmentation results.
+
+   - Use the corrected segmentation as training data to improve the model's accuracy over time.
+
+   - This makes the algorithm accessible without requiring users to write code or use Jupyter Notebooks.
 
 ## References
 
