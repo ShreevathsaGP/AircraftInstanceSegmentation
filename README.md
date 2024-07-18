@@ -51,9 +51,7 @@ The dataset used in this project is sourced from the Open Images Dataset V7, spe
 
 Sample results of the segmentation model on aircraft images are shown in the table at the top. The segmentation results highlight the detected aircrafts and their segmented areas.
 
-## Future Work
-
-### Potential Improvements
+## Potential Improvements
 
 1. **Enhanced Segmentation**:
 
