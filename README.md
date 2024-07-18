@@ -72,4 +72,4 @@ Sample results of the segmentation model on aircraft images are shown in the tab
 
 ## References
 
-- [Tutorial: Image segmentation on custom dataset using YOLOv8]([https://example.com](https://www.youtube.com/watch?v=aVKGjzAUHz0))
+- [Tutorial: Image segmentation on custom dataset using YOLOv8](https://www.youtube.com/watch?v=aVKGjzAUHz0)
