@@ -3,7 +3,9 @@
 | Original Image | Segmentation Result |
 |----------------|---------------------|
 | ![input_image_1](https://github.com/user-attachments/assets/21b8dafa-4883-436e-9ff0-6f9a226670da) | ![output_image_1](https://github.com/user-attachments/assets/a88cc8b2-e29b-483c-9a45-c2d054d1ed73) |
-| ![input_image_0](https://github.com/user-attachments/assets/e27e84d5-6c3a-4002-9d15-0f18a9140d11) | ![output_image_0](https://github.com/user-attachments/assets/1c16b8fd-0cd1-4567-840b-5712f5c331ff) |
+| ![input_image_2](https://github.com/user-attachments/assets/9e2706c1-db03-4372-af5b-2cd47333fb5a) | ![output_image_2](https://github.com/user-attachments/assets/17e8055a-af15-4337-8149-c52fbe95a9e7) |
+| ![input_image_0](https://github.com/user-attachments/assets/e27e84d5-6c3a-4002-9d15-0f18a9140d11) | ![output_image_0](https://github.com/user-attachments/assets/8c7697bc-07de-472c-9694-311ea5c711f9) |
+
 
 ## Overview
 This project performs instance segmentation of aircraft in images using OpenCV, YOLO v8 and TensorFlow. The goal is to detect and segment individual aircrafts within various images accurately.
